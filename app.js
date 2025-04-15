@@ -1,8 +1,8 @@
 // app.js
 
 function greet() {
-  console.log("Hello, world!");
+  const greeting = "Hello, World!";
+  return greeting;
 }
 
 greet();
-
